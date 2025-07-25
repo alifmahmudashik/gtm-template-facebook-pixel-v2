@@ -1,0 +1,4 @@
+homepage: "https://alifmahmud.com"
+versions: 
+  - sha: 
+    changeNotes: A flexible Facebook Pixel tag for Google Tag Manager that adds automatic Enhanced Ecommerce (GA4, UA, eventModel) tracking support — while still supporting your existing manual setups.
